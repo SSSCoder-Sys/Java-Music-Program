@@ -12,3 +12,5 @@ If you want to use .mp3 files, you'll need to work with JavaFX which I haven't w
 
 Audio files must be placed in the src folder so that the program can see the file. File path must be declared in the program so if you have multiple songs, make sure to have their file paths listed (e.g., src/name_of_song.wav)
 Again this was created by following along BroCode so please don't think I'm calling this my own program. However, I think I can make this into a mini Java spotify player by being able to incorporate multiple songs (if I do that, I'll make a commit to this page)
+
+This project was created using IntelliJIDE and so if you want to run it, strongly recommend using that. If not, it is still possible to use VS Code and I'm sure this will run in other IDEs, I'm just a noob when it comes to github so I'm not sure how to exactly clone this specific repository. Still learning so hopefully I know in the future to make this cloneable 
